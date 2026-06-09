@@ -54,6 +54,7 @@ in my final year of B-Tech (8th Semester).
 - Day 23 - Lasso Regression
 - Day 24 - Lasso Regression (Part 2)
 - Day 25 - Elastic Net Regression
+- Day 26 - Logistic Regression
 
 ## Resources
 - 📺 [CampusX 100 Days ML - YouTube](https://www.youtube.com/@campusx-official)

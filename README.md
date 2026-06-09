@@ -47,6 +47,14 @@ in my final year of B-Tech (8th Semester).
 - Day 16 - Linear Regression
 - Day 16 - Linear Regression (Custom Implementation)
 
+### 📌 Machine Learning Algorithms
+- Day 17 - Multiple Linear Regression
+- Day 18 - Multiple LR
+- Day 19 - Stochastic Gradient Descent
+- Day 23 - Lasso Regression
+- Day 24 - Lasso Regression (Part 2)
+- Day 25 - Elastic Net Regression
+
 ## Resources
 - 📺 [CampusX 100 Days ML - YouTube](https://www.youtube.com/@campusx-official)
 - 📖 Hands-On ML with Scikit-Learn & TensorFlow - Aurélien Géron
